@@ -203,3 +203,5 @@ under examples folder there are some tests, execute `go test` command and get ou
 
 ![](./images/chat_stream.png)
 
+#
+**Author:** [Dmitrii Kumancev](https://github.com/DmitriiKumancev)
